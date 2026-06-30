@@ -1,0 +1,4 @@
+name: handdrawnyl
+description: YL-style hand-drawn insight illustration skill.
+version: 0.1.0
+entrypoint: SKILL.md
