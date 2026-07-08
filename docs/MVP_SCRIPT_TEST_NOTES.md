@@ -7,7 +7,7 @@
 最小 MVP 阶段先使用脚本方式运行：
 
 ```bash
-cd "/Users/xuanmu/Desktop/Mywork/all kind of test/FocusLensMacMVP"
+cd FocusLensMacMVP
 swift run FocusLensMacMVP
 ```
 
@@ -173,7 +173,7 @@ capture selectedDisplay=... imagePixels=... screenPoints=... scale=...
 启动：
 
 ```bash
-cd "/Users/xuanmu/Desktop/Mywork/all kind of test/FocusLensMacMVP"
+cd FocusLensMacMVP
 swift run FocusLensMacMVP
 ```
 

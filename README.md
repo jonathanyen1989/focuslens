@@ -42,7 +42,7 @@ FocusLens 的目标是补上 live presentation 场景里的空白。很多工具
 ## Run the MVP
 
 ```sh
-cd "/Users/xuanmu/Desktop/Mywork/all kind of test/FocusLensMacMVP"
+cd FocusLensMacMVP
 swift run FocusLensMacMVP
 ```
 
