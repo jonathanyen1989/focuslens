@@ -8,7 +8,7 @@ Live presentation spotlight for macOS.
 
 FocusLens is not a post-production zoom tool for recorded videos, and it is not a generic system magnifier. It is built for live presentation, live demo, and live meeting scenarios where presenters need to quickly select, zoom, and visually spotlight an important area while they are speaking.
 
-FocusLens 不是录屏后的后期放大工具，也不是普通屏幕放大镜。它面向 live presentation、远程会议共享和现场 demo，帮助演示者快速框选并放大关键区域，同时用蒙版、边框和水印形成专业的视觉聚焦效果。
+FocusLens 不是录屏后的后期放大工具，也不是普通屏幕放大镜。它面向 live presentation、远程会议共享和现场 demo，帮助演示者快速框选并放大关键区域，同时用蒙版、边框形成专业的视觉聚焦效果。
 
 The project is currently an MVP. The recommended development and testing path is `swift run`, not the packaged `.app`, because packaged app signing and Screen Recording permissions still need to be stabilized.
 
